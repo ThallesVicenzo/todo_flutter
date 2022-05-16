@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:todo_flutter/Screens/TaskScreen.dart';
-import 'package:provider/provider.dart';
 import 'package:todo_flutter/models/task_data.dart';
 
 void main() {
